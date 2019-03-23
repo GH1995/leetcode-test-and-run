@@ -33,3 +33,6 @@
 
 # file
 tags
+
+# dir
+build/

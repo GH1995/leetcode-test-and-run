@@ -1,0 +1,19 @@
+
+{
+    ["options_all"] = 
+    {
+        ["plat"] = "myplat"
+    }
+,   ["mtimes"] = 
+    {
+        ["xmake.lua"] = 1553361600
+    }
+,   ["options_leetcode-test-and-run"] = 
+    {
+    }
+,   ["__version"] = "2.2.3"
+,   ["options_lc"] = 
+    {
+        ["plat"] = "myplat"
+    }
+}

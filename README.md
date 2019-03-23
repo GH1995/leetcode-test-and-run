@@ -20,10 +20,11 @@
 
 没什么需要配置的，你把文件夹`clone`或者下载到本地，然后打开`lc.cpp`，把`LeetCode`上的`Solution`类复制到`lc.cpp`中。下面的测试规则怎么写是不会教你的，老生常谈的东西，看里面的样例照葫芦画瓢就行。更多的东西请参考[这里](https://github.com/catchorg/Catch2/tree/master/examples)。
 
-`next`
+## 动手
 
 - 如果你用`IDE`，点`run`吧。
-- 如果你用`Linux`，那就先编译`tests-main.cpp`，命令是：`g++ tests-main.cpp -c`。然后每次运行：`g++ tests-main.o lc.cpp -o lc`
+- 如果你用`Linux`，那就先编译`tests-main.cpp`，命令是：`g++ tests-main.cpp -c`。然后每次运行：`g++ tests-main.o lc.cpp -o lc`。
+- 如果你和我一样懒，我写了`makefile`，`make`一下吧。第一遍会比较慢，之后会快很多。比较恶心的是，你要这么执行`./build/linux/x86_64/release/lc`。
 
 ## 可能遇到的问题
 

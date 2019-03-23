@@ -1,12 +1,13 @@
 #include "catch.hpp"
 #include "leetcode.h"
 
-class Solution {};
+// Here is class  solution
+class Solution{};
+
 
 SCENARIO("test for leetcode", "[leetcode]") {
   GIVEN("test") {
     Solution s;
-    vector<int> example = {1, 2, 3};
   }
 
   WHEN("test 1") {
