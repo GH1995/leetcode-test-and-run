@@ -1,0 +1,403 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Arg	catch.hpp	/^    class Arg : public ParserRefImpl<Arg> {$/;"	c	namespace:Catch
+AssertionInfo	catch.hpp	/^    struct AssertionInfo$/;"	s	namespace:Catch
+AutoReg	catch.hpp	/^struct AutoReg : NonCopyable {$/;"	s	namespace:Catch
+BENCHMARK	catch.hpp	2607;"	d
+CATCH_ARC_ENABLED	catch.hpp	1180;"	d
+CATCH_ARC_STRONG	catch.hpp	1198;"	d
+CATCH_ARC_STRONG	catch.hpp	1214;"	d
+CATCH_BREAK_INTO_DEBUGGER	catch.hpp	6035;"	d
+CATCH_CATCH_ALL	catch.hpp	370;"	d
+CATCH_CATCH_ANON	catch.hpp	371;"	d
+CATCH_CLARA_CONFIG_CONSOLE_WIDTH	catch.hpp	6524;"	d
+CATCH_CLARA_TEXTFLOW_CONFIG_CONSOLE_WIDTH	catch.hpp	6501;"	d
+CATCH_CLARA_TEXTFLOW_CONFIG_CONSOLE_WIDTH	catch.hpp	6503;"	d
+CATCH_CLARA_TEXTFLOW_CONFIG_CONSOLE_WIDTH	catch.hpp	6528;"	d
+CATCH_CLARA_TEXTFLOW_CONFIG_CONSOLE_WIDTH	catch.hpp	6558;"	d
+CATCH_CONFIG_ALL_PARTS	catch.hpp	51;"	d
+CATCH_CONFIG_COLOUR_NONE	catch.hpp	176;"	d
+CATCH_CONFIG_COLOUR_NONE	catch.hpp	225;"	d
+CATCH_CONFIG_CONSOLE_WIDTH	catch.hpp	4649;"	d
+CATCH_CONFIG_COUNTER	catch.hpp	305;"	d
+CATCH_CONFIG_CPP11_TO_STRING	catch.hpp	320;"	d
+CATCH_CONFIG_CPP17_OPTIONAL	catch.hpp	324;"	d
+CATCH_CONFIG_CPP17_STRING_VIEW	catch.hpp	332;"	d
+CATCH_CONFIG_CPP17_UNCAUGHT_EXCEPTIONS	catch.hpp	328;"	d
+CATCH_CONFIG_CPP17_VARIANT	catch.hpp	336;"	d
+CATCH_CONFIG_DEFAULT_REPORTER	catch.hpp	4685;"	d
+CATCH_CONFIG_DEFAULT_REPORTER	catch.hpp	4688;"	d
+CATCH_CONFIG_DISABLE_EXCEPTIONS	catch.hpp	348;"	d
+CATCH_CONFIG_DISABLE_MATCHERS	catch.hpp	59;"	d
+CATCH_CONFIG_ENABLE_CHRONO_STRINGMAKER	catch.hpp	1541;"	d
+CATCH_CONFIG_ENABLE_CHRONO_STRINGMAKER	catch.hpp	62;"	d
+CATCH_CONFIG_ENABLE_OPTIONAL_STRINGMAKER	catch.hpp	1542;"	d
+CATCH_CONFIG_ENABLE_PAIR_STRINGMAKER	catch.hpp	1538;"	d
+CATCH_CONFIG_ENABLE_TUPLE_STRINGMAKER	catch.hpp	1539;"	d
+CATCH_CONFIG_ENABLE_VARIANT_STRINGMAKER	catch.hpp	1540;"	d
+CATCH_CONFIG_EXTERNAL_INTERFACES	catch.hpp	57;"	d
+CATCH_CONFIG_MAIN	tests-main.cpp	1;"	d	file:
+CATCH_CONFIG_NEW_CAPTURE	catch.hpp	344;"	d
+CATCH_CONFIG_NO_CPP17_VARIANT	catch.hpp	294;"	d
+CATCH_CONFIG_POLYFILL_ISNAN	catch.hpp	352;"	d
+CATCH_CONFIG_POSIX_SIGNALS	catch.hpp	312;"	d
+CATCH_CONFIG_TRADITIONAL_MSVC_PREPROCESSOR	catch.hpp	379;"	d
+CATCH_CONFIG_WCHAR	catch.hpp	316;"	d
+CATCH_CONFIG_WINDOWS_SEH	catch.hpp	308;"	d
+CATCH_CPP14_OR_GREATER	catch.hpp	126;"	d
+CATCH_CPP17_OR_GREATER	catch.hpp	130;"	d
+CATCH_DEFER	catch.hpp	686;"	d
+CATCH_DEFINED_NOMINMAX	catch.hpp	6051;"	d
+CATCH_DEFINED_WIN32_LEAN_AND_MEAN	catch.hpp	6055;"	d
+CATCH_EMPTY	catch.hpp	685;"	d
+CATCH_ENFORCE	catch.hpp	3496;"	d
+CATCH_ERROR	catch.hpp	3492;"	d
+CATCH_IMPL	catch.hpp	50;"	d
+CATCH_INTERNAL_CHECK_UNIQUE_TYPES	catch.hpp	929;"	d
+CATCH_INTERNAL_CONFIG_COUNTER	catch.hpp	265;"	d
+CATCH_INTERNAL_CONFIG_CPP17_OPTIONAL	catch.hpp	281;"	d
+CATCH_INTERNAL_CONFIG_CPP17_STRING_VIEW	catch.hpp	273;"	d
+CATCH_INTERNAL_CONFIG_CPP17_UNCAUGHT_EXCEPTIONS	catch.hpp	136;"	d
+CATCH_INTERNAL_CONFIG_CPP17_UNCAUGHT_EXCEPTIONS	catch.hpp	219;"	d
+CATCH_INTERNAL_CONFIG_EXCEPTIONS_ENABLED	catch.hpp	242;"	d
+CATCH_INTERNAL_CONFIG_NEW_CAPTURE	catch.hpp	340;"	d
+CATCH_INTERNAL_CONFIG_NO_CPP11_TO_STRING	catch.hpp	182;"	d
+CATCH_INTERNAL_CONFIG_NO_CPP11_TO_STRING	catch.hpp	209;"	d
+CATCH_INTERNAL_CONFIG_NO_NEW_CAPTURE	catch.hpp	194;"	d
+CATCH_INTERNAL_CONFIG_NO_POSIX_SIGNALS	catch.hpp	171;"	d
+CATCH_INTERNAL_CONFIG_NO_POSIX_SIGNALS	catch.hpp	175;"	d
+CATCH_INTERNAL_CONFIG_NO_WCHAR	catch.hpp	248;"	d
+CATCH_INTERNAL_CONFIG_NO_WINDOWS_SEH	catch.hpp	188;"	d
+CATCH_INTERNAL_CONFIG_POLYFILL_ISNAN	catch.hpp	254;"	d
+CATCH_INTERNAL_CONFIG_POSIX_SIGNALS	catch.hpp	165;"	d
+CATCH_INTERNAL_CONFIG_TRADITIONAL_MSVC_PREPROCESSOR	catch.hpp	234;"	d
+CATCH_INTERNAL_ERROR	catch.hpp	3490;"	d
+CATCH_INTERNAL_LINEINFO	catch.hpp	458;"	d
+CATCH_INTERNAL_STRINGIFY	catch.hpp	2305;"	d
+CATCH_INTERNAL_SUPPRESS_GLOBALS_WARNINGS	catch.hpp	141;"	d
+CATCH_INTERNAL_SUPPRESS_GLOBALS_WARNINGS	catch.hpp	360;"	d
+CATCH_INTERNAL_SUPPRESS_PARENTHESES_WARNINGS	catch.hpp	148;"	d
+CATCH_INTERNAL_SUPPRESS_PARENTHESES_WARNINGS	catch.hpp	356;"	d
+CATCH_INTERNAL_SUPPRESS_UNUSED_WARNINGS	catch.hpp	154;"	d
+CATCH_INTERNAL_SUPPRESS_UNUSED_WARNINGS	catch.hpp	364;"	d
+CATCH_INTERNAL_UNSUPPRESS_GLOBALS_WARNINGS	catch.hpp	145;"	d
+CATCH_INTERNAL_UNSUPPRESS_GLOBALS_WARNINGS	catch.hpp	361;"	d
+CATCH_INTERNAL_UNSUPPRESS_PARENTHESES_WARNINGS	catch.hpp	151;"	d
+CATCH_INTERNAL_UNSUPPRESS_PARENTHESES_WARNINGS	catch.hpp	357;"	d
+CATCH_INTERNAL_UNSUPPRESS_UNUSED_WARNINGS	catch.hpp	157;"	d
+CATCH_INTERNAL_UNSUPPRESS_UNUSED_WARNINGS	catch.hpp	365;"	d
+CATCH_PLATFORM_IPHONE	catch.hpp	74;"	d
+CATCH_PLATFORM_LINUX	catch.hpp	78;"	d
+CATCH_PLATFORM_MAC	catch.hpp	72;"	d
+CATCH_PLATFORM_WINDOWS	catch.hpp	6885;"	d
+CATCH_PLATFORM_WINDOWS	catch.hpp	81;"	d
+CATCH_PREPARE_EXCEPTION	catch.hpp	3488;"	d
+CATCH_RECURSE	catch.hpp	677;"	d
+CATCH_RECURSION_LEVEL0	catch.hpp	666;"	d
+CATCH_RECURSION_LEVEL1	catch.hpp	667;"	d
+CATCH_RECURSION_LEVEL2	catch.hpp	668;"	d
+CATCH_RECURSION_LEVEL3	catch.hpp	669;"	d
+CATCH_RECURSION_LEVEL4	catch.hpp	670;"	d
+CATCH_RECURSION_LEVEL5	catch.hpp	671;"	d
+CATCH_RECURSION_LEVEL6	catch.hpp	676;"	d
+CATCH_REC_END	catch.hpp	682;"	d
+CATCH_REC_GET_END	catch.hpp	690;"	d
+CATCH_REC_GET_END1	catch.hpp	689;"	d
+CATCH_REC_GET_END2	catch.hpp	688;"	d
+CATCH_REC_LIST	catch.hpp	708;"	d
+CATCH_REC_LIST0	catch.hpp	695;"	d
+CATCH_REC_LIST0_UD	catch.hpp	699;"	d
+CATCH_REC_LIST1	catch.hpp	696;"	d
+CATCH_REC_LIST1_UD	catch.hpp	700;"	d
+CATCH_REC_LIST2	catch.hpp	697;"	d
+CATCH_REC_LIST2_UD	catch.hpp	701;"	d
+CATCH_REC_LIST_UD	catch.hpp	706;"	d
+CATCH_REC_NEXT	catch.hpp	693;"	d
+CATCH_REC_NEXT0	catch.hpp	691;"	d
+CATCH_REC_NEXT1	catch.hpp	692;"	d
+CATCH_REC_OUT	catch.hpp	683;"	d
+CATCH_REGISTER_LISTENER	catch.hpp	5446;"	d
+CATCH_REGISTER_REPORTER	catch.hpp	5441;"	d
+CATCH_REGISTER_TAG_ALIAS	catch.hpp	470;"	d
+CATCH_RUNTIME_ERROR	catch.hpp	3494;"	d
+CATCH_TEMP_CLARA_CONFIG_CONSOLE_WIDTH	catch.hpp	6500;"	d
+CATCH_TRAP	catch.hpp	6014;"	d
+CATCH_TRY	catch.hpp	369;"	d
+CATCH_UNSAFE_UNRETAINED	catch.hpp	1197;"	d
+CATCH_UNSAFE_UNRETAINED	catch.hpp	1213;"	d
+CATCH_VERSION_MAJOR	catch.hpp	16;"	d
+CATCH_VERSION_MINOR	catch.hpp	17;"	d
+CATCH_VERSION_PATCH	catch.hpp	18;"	d
+CLARA_CONFIG_MAIN	catch.hpp	89;"	d
+CLARA_CONFIG_MAIN_NOT_DEFINED	catch.hpp	88;"	d
+CLARA_CONFIG_OPTIONAL_TYPE	catch.hpp	6535;"	d
+CaseSensitive	catch.hpp	/^    struct CaseSensitive { enum Choice {$/;"	s	namespace:Catch
+Catch	catch.hpp	/^namespace Catch {$/;"	n
+Catch	catch.hpp	/^namespace Catch{$/;"	n
+Catch_global_namespace_dummy	catch.hpp	/^struct Catch_global_namespace_dummy {};$/;"	s
+Choice	catch.hpp	/^    struct CaseSensitive { enum Choice {$/;"	g	struct:Catch::CaseSensitive
+ComposableParserImpl	catch.hpp	/^    class ComposableParserImpl : public ParserBase {$/;"	c	namespace:Catch
+ContinueOnFailure	catch.hpp	/^        ContinueOnFailure = 0x02,   \/\/ Failures fail test, but execution continues$/;"	e	enum:Catch::ResultDisposition::Flags
+Detail	catch.hpp	/^    namespace Detail {$/;"	n	namespace:Catch
+DidntThrowException	catch.hpp	/^        DidntThrowException = Exception | 2,$/;"	e	enum:Catch::ResultWas::OfType
+Exception	catch.hpp	/^        Exception = 0x100 | FailureBit,$/;"	e	enum:Catch::ResultWas::OfType
+ExeName	catch.hpp	/^        ExeName() : m_name( std::make_shared<std::string>( "<executable>" ) ) {}$/;"	f	class:Catch::ExeName
+ExeName	catch.hpp	/^        explicit ExeName( LambdaT const& lambda ) : ExeName() {$/;"	f	class:Catch::ExeName
+ExeName	catch.hpp	/^        explicit ExeName( std::string &ref ) : ExeName() {$/;"	f	class:Catch::ExeName
+ExeName	catch.hpp	/^    class ExeName : public ComposableParserImpl<ExeName> {$/;"	c	namespace:Catch
+ExplicitFailure	catch.hpp	/^        ExplicitFailure = FailureBit | 2,$/;"	e	enum:Catch::ResultWas::OfType
+ExpressionFailed	catch.hpp	/^        ExpressionFailed = FailureBit | 1,$/;"	e	enum:Catch::ResultWas::OfType
+FailureBit	catch.hpp	/^        FailureBit = 0x10,$/;"	e	enum:Catch::ResultWas::OfType
+FalseTest	catch.hpp	/^        FalseTest = 0x04,           \/\/ Prefix expression with !$/;"	e	enum:Catch::ResultDisposition::Flags
+FatalErrorCondition	catch.hpp	/^        FatalErrorCondition = 0x200 | FailureBit$/;"	e	enum:Catch::ResultWas::OfType
+Flags	catch.hpp	/^    struct ResultDisposition { enum Flags {$/;"	g	struct:Catch::ResultDisposition
+GENERATE	catch.hpp	3688;"	d
+Help	catch.hpp	/^        Help( bool &showHelpFlag )$/;"	f	struct:Catch::Help
+Help	catch.hpp	/^    struct Help : Opt {$/;"	s	namespace:Catch
+INTERNAL_CATCH_CAPTURE	catch.hpp	2410;"	d
+INTERNAL_CATCH_CATCH	catch.hpp	2316;"	d
+INTERNAL_CATCH_DEF	catch.hpp	712;"	d
+INTERNAL_CATCH_DYNAMIC_SECTION	catch.hpp	2559;"	d
+INTERNAL_CATCH_ELSE	catch.hpp	2346;"	d
+INTERNAL_CATCH_EXPAND1	catch.hpp	710;"	d
+INTERNAL_CATCH_EXPAND2	catch.hpp	711;"	d
+INTERNAL_CATCH_EXPAND_VARGS	catch.hpp	674;"	d
+INTERNAL_CATCH_IF	catch.hpp	2341;"	d
+INTERNAL_CATCH_INFO	catch.hpp	2415;"	d
+INTERNAL_CATCH_MAKE_TYPE_LIST	catch.hpp	738;"	d
+INTERNAL_CATCH_MAKE_TYPE_LISTS_FROM_TYPES	catch.hpp	740;"	d
+INTERNAL_CATCH_METHOD_AS_TEST_CASE	catch.hpp	882;"	d
+INTERNAL_CATCH_MSG	catch.hpp	2402;"	d
+INTERNAL_CATCH_NOINTERNAL_CATCH_DEF	catch.hpp	713;"	d
+INTERNAL_CATCH_NO_THROW	catch.hpp	2351;"	d
+INTERNAL_CATCH_REACT	catch.hpp	2325;"	d
+INTERNAL_CATCH_REGISTER_TESTCASE	catch.hpp	902;"	d
+INTERNAL_CATCH_REMOVE_PARENS	catch.hpp	725;"	d
+INTERNAL_CATCH_SECTION	catch.hpp	2554;"	d
+INTERNAL_CATCH_STRINGIZE	catch.hpp	714;"	d
+INTERNAL_CATCH_STRINGIZE2	catch.hpp	716;"	d
+INTERNAL_CATCH_STRINGIZE_WITHOUT_PARENS	catch.hpp	717;"	d
+INTERNAL_CATCH_TEMPLATE_PRODUCT_TEST_CASE	catch.hpp	976;"	d
+INTERNAL_CATCH_TEMPLATE_PRODUCT_TEST_CASE2	catch.hpp	948;"	d
+INTERNAL_CATCH_TEMPLATE_PRODUCT_TEST_CASE_METHOD	catch.hpp	1044;"	d
+INTERNAL_CATCH_TEMPLATE_PRODUCT_TEST_CASE_METHOD_2	catch.hpp	1013;"	d
+INTERNAL_CATCH_TEMPLATE_REGISTRY_INITIATE	catch.hpp	942;"	d
+INTERNAL_CATCH_TEMPLATE_TEST_CASE	catch.hpp	935;"	d
+INTERNAL_CATCH_TEMPLATE_TEST_CASE_2	catch.hpp	908;"	d
+INTERNAL_CATCH_TEMPLATE_TEST_CASE_METHOD	catch.hpp	1006;"	d
+INTERNAL_CATCH_TEMPLATE_TEST_CASE_METHOD_2	catch.hpp	983;"	d
+INTERNAL_CATCH_TEMPLATE_TEST_CASE_METHOD_NO_REGISTRATION	catch.hpp	860;"	d
+INTERNAL_CATCH_TEMPLATE_TEST_CASE_NO_REGISTRATION	catch.hpp	857;"	d
+INTERNAL_CATCH_TEMPLATE_UNIQUE_NAME	catch.hpp	730;"	d
+INTERNAL_CATCH_TEMPLATE_UNIQUE_NAME2	catch.hpp	727;"	d
+INTERNAL_CATCH_TEMPLATE_UNIQUE_NAME3	catch.hpp	729;"	d
+INTERNAL_CATCH_TEST	catch.hpp	2328;"	d
+INTERNAL_CATCH_TESTCASE	catch.hpp	878;"	d
+INTERNAL_CATCH_TESTCASE2	catch.hpp	872;"	d
+INTERNAL_CATCH_TESTCASE_METHOD_NO_REGISTRATION	catch.hpp	850;"	d
+INTERNAL_CATCH_TESTCASE_NO_REGISTRATION	catch.hpp	848;"	d
+INTERNAL_CATCH_TEST_CASE_METHOD	catch.hpp	898;"	d
+INTERNAL_CATCH_TEST_CASE_METHOD2	catch.hpp	888;"	d
+INTERNAL_CATCH_THROWS	catch.hpp	2365;"	d
+INTERNAL_CATCH_THROWS_AS	catch.hpp	2382;"	d
+INTERNAL_CATCH_THROWS_MATCHES	catch.hpp	3416;"	d
+INTERNAL_CATCH_THROWS_STR_MATCHES	catch.hpp	2424;"	d
+INTERNAL_CATCH_TRANSLATE_EXCEPTION	catch.hpp	2729;"	d
+INTERNAL_CATCH_TRANSLATE_EXCEPTION2	catch.hpp	2722;"	d
+INTERNAL_CATCH_TRANSLATE_EXCEPTION_NO_REG	catch.hpp	2662;"	d
+INTERNAL_CATCH_TRY	catch.hpp	2315;"	d
+INTERNAL_CATCH_UNIQUE_NAME	catch.hpp	386;"	d
+INTERNAL_CATCH_UNIQUE_NAME_LINE	catch.hpp	384;"	d
+INTERNAL_CATCH_UNIQUE_NAME_LINE2	catch.hpp	383;"	d
+INTERNAL_CATCH_UNSCOPED_INFO	catch.hpp	2419;"	d
+INTERNAL_CHECK_THAT	catch.hpp	3406;"	d
+IStream	catch.hpp	/^    struct IStream {$/;"	s	namespace:Catch
+ITestCaseRegistry	catch.hpp	/^    struct ITestCaseRegistry {$/;"	s	namespace:Catch
+ITestInvoker	catch.hpp	/^    struct ITestInvoker {$/;"	s	namespace:Catch
+Info	catch.hpp	/^        Info = 1,$/;"	e	enum:Catch::ResultWas::OfType
+InternalParseResult	catch.hpp	/^        virtual auto parse( std::string const& exeName, TokenStream const &tokens) const -> InternalParseResult  = 0;$/;"	m	namespace:Catch::Detail
+IsStreamInsertable	catch.hpp	/^        class IsStreamInsertable {$/;"	c	namespace:Catch::Detail
+ListNode	leetcode.h	/^  explicit ListNode(int x) : val(x), next(nullptr) {}$/;"	f	struct:ListNode
+ListNode	leetcode.h	/^struct ListNode {$/;"	s
+NOMINMAX	catch.hpp	6052;"	d
+NOMINMAX	catch.hpp	6066;"	d
+NameAndTags	catch.hpp	/^struct NameAndTags {$/;"	s	namespace:Catch
+No	catch.hpp	/^        No$/;"	e	enum:Catch::CaseSensitive::Choice
+Node	leetcode.h	/^  Node() {}$/;"	f	class:Node
+Node	leetcode.h	/^  Node(int _val, Node* _left, Node* _right, Node* _next) {$/;"	f	class:Node
+Node	leetcode.h	/^class Node {$/;"	c
+NonCopyable	catch.hpp	/^    class NonCopyable {$/;"	c	namespace:Catch
+Normal	catch.hpp	/^        Normal = 0x01,$/;"	e	enum:Catch::ResultDisposition::Flags
+OC_MAKE_UNIQUE_NAME	catch.hpp	4437;"	d
+OC_TEST_CASE	catch.hpp	4449;"	d
+OC_TEST_CASE2	catch.hpp	4438;"	d
+OfType	catch.hpp	/^    struct ResultWas { enum OfType {$/;"	g	struct:Catch::ResultWas
+Ok	catch.hpp	/^        Ok = 0,$/;"	e	enum:Catch::ResultWas::OfType
+Opt	catch.hpp	/^        Opt( LambdaT const &ref, std::string const &hint ) : ParserRefImpl( ref, hint ) {}$/;"	f	class:Catch::Opt
+Opt	catch.hpp	/^        Opt( T &ref, std::string const &hint ) : ParserRefImpl( ref, hint ) {}$/;"	f	class:Catch::Opt
+Opt	catch.hpp	/^        explicit Opt( LambdaT const &ref ) : ParserRefImpl( std::make_shared<BoundFlagLambda<LambdaT>>( ref ) ) {}$/;"	f	class:Catch::Opt
+Opt	catch.hpp	/^        explicit Opt( bool &ref ) : ParserRefImpl( std::make_shared<BoundFlagRef>( ref ) ) {}$/;"	f	class:Catch::Opt
+Opt	catch.hpp	/^    class Opt : public ParserRefImpl<Opt> {$/;"	c	namespace:Catch
+Parser	catch.hpp	/^        auto operator+( T const &other ) const -> Parser;$/;"	m	class:Catch::ComposableParserImpl
+Parser	catch.hpp	/^        auto operator|( T const &other ) const -> Parser;$/;"	m	class:Catch::ComposableParserImpl
+Parser	catch.hpp	/^    struct Parser : ParserBase {$/;"	s	namespace:Catch
+ParserRefImpl	catch.hpp	/^        ParserRefImpl( LambdaT const &ref, std::string const &hint )$/;"	f	class:Catch::ParserRefImpl
+ParserRefImpl	catch.hpp	/^        ParserRefImpl( T &ref, std::string const &hint )$/;"	f	class:Catch::ParserRefImpl
+ParserRefImpl	catch.hpp	/^        explicit ParserRefImpl( std::shared_ptr<BoundRef> const &ref ) : m_ref( ref ) {}$/;"	f	class:Catch::ParserRefImpl
+ParserRefImpl	catch.hpp	/^    class ParserRefImpl : public ComposableParserImpl<DerivedT> {$/;"	c	namespace:Catch
+RegistrarForTagAliases	catch.hpp	/^    struct RegistrarForTagAliases {$/;"	s	namespace:Catch
+ResultDisposition	catch.hpp	/^    struct ResultDisposition { enum Flags {$/;"	s	namespace:Catch
+ResultWas	catch.hpp	/^    struct ResultWas { enum OfType {$/;"	s	namespace:Catch
+ReusableStringStream	catch.hpp	/^    class ReusableStringStream {$/;"	c	namespace:Catch
+Solution	lc.cpp	/^class Solution {};$/;"	c	file:
+SourceLineInfo	catch.hpp	/^    struct SourceLineInfo {$/;"	s	namespace:Catch
+StreamEndStop	catch.hpp	/^    struct StreamEndStop {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<NSObject*> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<NSString*> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<R C::*> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<T*> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<T^> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<bool> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<char *> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<char const *> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<char> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<char[SZ]> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<double> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<float> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<int> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<long long> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<long> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<signed char> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<signed char[SZ]> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::nullptr_t> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::optional<T> > {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::pair<T1, T2> > {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::string> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::string_view> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::wstring> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::wstring_view> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned char> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned char[SZ]> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned int> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned long long> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned long> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<wchar_t *> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<wchar_t const *> {$/;"	s	namespace:Catch
+StringRef	catch.hpp	/^        :   StringRef( s_empty, 0 )$/;"	f	class:Catch::StringRef
+StringRef	catch.hpp	/^    class StringRef {$/;"	c	namespace:Catch
+SuppressFail	catch.hpp	/^        SuppressFail = 0x08         \/\/ Failures are reported but do not fail the test$/;"	e	enum:Catch::ResultDisposition::Flags
+TWOBLUECUBES_SINGLE_INCLUDE_CATCH_HPP_INCLUDED	catch.hpp	12;"	d
+TestInvokerAsMethod	catch.hpp	/^class TestInvokerAsMethod : public ITestInvoker {$/;"	c	namespace:Catch
+ThrewException	catch.hpp	/^        ThrewException = Exception | 1,$/;"	e	enum:Catch::ResultWas::OfType
+TreeNode	leetcode.h	/^  explicit TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}$/;"	f	struct:TreeNode
+TreeNode	leetcode.h	/^struct TreeNode {$/;"	s
+TypeList	catch.hpp	/^struct TypeList {};$/;"	s	namespace:Catch
+Unknown	catch.hpp	/^        Unknown = -1,$/;"	e	enum:Catch::ResultWas::OfType
+WIN32_LEAN_AND_MEAN	catch.hpp	6056;"	d
+WIN32_LEAN_AND_MEAN	catch.hpp	6069;"	d
+Warning	catch.hpp	/^        Warning = 2,$/;"	e	enum:Catch::ResultWas::OfType
+Yes	catch.hpp	/^        Yes,$/;"	e	enum:Catch::CaseSensitive::Choice
+_BSD_SOURCE	catch.hpp	203;"	d
+always_false	catch.hpp	/^struct always_false : std::false_type {};$/;"	s	namespace:Catch
+append	catch.hpp	/^struct append< L1<E1...>, L2<E2...> > {$/;"	s	namespace:Catch
+append	catch.hpp	/^struct append< L1<E1...>, L2<E2...>, Rest...> {$/;"	s	namespace:Catch
+arcSafeRelease	catch.hpp	/^inline void arcSafeRelease( NSObject* ){}$/;"	f
+arcSafeRelease	catch.hpp	/^inline void arcSafeRelease( NSObject* obj ) {$/;"	f
+capturedExpression	catch.hpp	/^        StringRef capturedExpression;$/;"	m	struct:Catch::AssertionInfo
+combine	catch.hpp	/^struct combine {$/;"	s	namespace:Catch
+convert	catch.hpp	/^            convert( const Fake& value ) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^            convert(const Fake& value) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(NSObject* nsObject) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(NSString * nsstring) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(R C::* p) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(U* p) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(char const* str) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(const std::optional<T>& optional) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(const std::pair<T1, T2>& pair) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(signed char const* str) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(unsigned char const* str) {$/;"	f	struct:Catch::StringMaker
+convertUnknownEnumToString	catch.hpp	/^        std::string convertUnknownEnumToString( E e ) {$/;"	f	namespace:Catch::Detail
+convertUnstreamable	catch.hpp	/^         std::string>::type convertUnstreamable(T const& ex) {$/;"	f	namespace:Catch::Detail
+convertUnstreamable	catch.hpp	/^        , std::string>::type convertUnstreamable( T const& value ) {$/;"	f	namespace:Catch::Detail
+convertUnstreamable	catch.hpp	/^        std::string>::type convertUnstreamable( T const& ) {$/;"	f	namespace:Catch::Detail
+false_type	catch.hpp	/^            static auto test(...)->std::false_type;$/;"	m	class:Catch::Detail::IsStreamInsertable::std
+file	catch.hpp	/^        char const* file;$/;"	m	struct:Catch::SourceLineInfo
+into	catch.hpp	/^        struct into {$/;"	s	struct:Catch::combine::with_types
+isFalseTest	catch.hpp	/^    inline bool isFalseTest( int flags ) { return ( flags & ResultDisposition::FalseTest ) != 0; }$/;"	f	namespace:Catch
+is_unique	catch.hpp	/^	inline constexpr auto is_unique = std::true_type{};$/;"	m	namespace:Catch
+is_unique	catch.hpp	/^	inline constexpr auto is_unique<T, Rest...> = std::bool_constant<$/;"	m	namespace:Catch
+left	leetcode.h	/^  Node* left;$/;"	m	class:Node
+left	leetcode.h	/^  TreeNode* left;$/;"	m	struct:TreeNode
+line	catch.hpp	/^            line( _line )$/;"	f	struct:Catch::SourceLineInfo
+line	catch.hpp	/^        std::size_t line;$/;"	m	struct:Catch::SourceLineInfo
+lineInfo	catch.hpp	/^        SourceLineInfo lineInfo;$/;"	m	struct:Catch::AssertionInfo
+m_args	catch.hpp	/^        std::vector<Arg> m_args;$/;"	m	struct:Catch::Parser
+m_data	catch.hpp	/^            m_data( other.m_data )$/;"	f	class:Catch::StringRef
+m_data	catch.hpp	/^        char* m_data = nullptr;$/;"	m	class:Catch::StringRef
+m_description	catch.hpp	/^        std::string m_description;$/;"	m	class:Catch::ParserRefImpl
+m_exeName	catch.hpp	/^        mutable ExeName m_exeName;$/;"	m	struct:Catch::Parser
+m_hint	catch.hpp	/^        std::string m_hint;$/;"	m	class:Catch::ParserRefImpl
+m_index	catch.hpp	/^        std::size_t m_index;$/;"	m	class:Catch::ReusableStringStream
+m_name	catch.hpp	/^        std::shared_ptr<std::string> m_name;$/;"	m	class:Catch::ExeName
+m_optNames	catch.hpp	/^        std::vector<std::string> m_optNames;$/;"	m	class:Catch::Opt
+m_optionality	catch.hpp	/^        Optionality m_optionality = Optionality::Optional;$/;"	m	class:Catch::ParserRefImpl
+m_options	catch.hpp	/^        std::vector<Opt> m_options;$/;"	m	struct:Catch::Parser
+m_oss	catch.hpp	/^        std::ostream* m_oss;$/;"	m	class:Catch::ReusableStringStream
+m_ref	catch.hpp	/^        std::shared_ptr<BoundRef> m_ref;$/;"	m	class:Catch::ParserRefImpl
+m_ref	catch.hpp	/^        std::shared_ptr<BoundValueRefBase> m_ref;$/;"	m	class:Catch::ExeName
+m_size	catch.hpp	/^            m_size( other.m_size )$/;"	f	class:Catch::StringRef
+m_size	catch.hpp	/^            m_size( size )$/;"	f	class:Catch::StringRef
+m_size	catch.hpp	/^            m_size( stdString.size() )$/;"	f	class:Catch::StringRef
+m_size	catch.hpp	/^        size_type m_size;$/;"	m	class:Catch::StringRef
+m_start	catch.hpp	/^        char const* m_start;$/;"	m	class:Catch::StringRef
+m_testAsMethod	catch.hpp	/^    TestInvokerAsMethod( void (C::*testAsMethod)() ) noexcept : m_testAsMethod( testAsMethod ) {}$/;"	f	class:Catch::TestInvokerAsMethod
+m_testAsMethod	catch.hpp	/^    void (C::*m_testAsMethod)();$/;"	m	class:Catch::TestInvokerAsMethod
+macroName	catch.hpp	/^        StringRef macroName;$/;"	m	struct:Catch::AssertionInfo
+name	catch.hpp	/^    StringRef name;$/;"	m	struct:Catch::NameAndTags
+next	leetcode.h	/^  ListNode* next;$/;"	m	struct:ListNode
+next	leetcode.h	/^  Node* next;$/;"	m	class:Node
+noexcept	catch.hpp	/^        SourceLineInfo& operator = ( SourceLineInfo&& ) noexcept = default;$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        SourceLineInfo( SourceLineInfo&& )              noexcept = default;$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        SourceLineInfo( char const* _file, std::size_t _line ) noexcept$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        StringRef( char const* rawChars ) noexcept;$/;"	m	class:Catch::StringRef
+noexcept	catch.hpp	/^        bool empty() const noexcept;$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        bool operator < ( SourceLineInfo const& other ) const noexcept;$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        bool operator == ( SourceLineInfo const& other ) const noexcept;$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        void swap( StringRef& other ) noexcept;$/;"	m	class:Catch::StringRef
+noexcept	catch.hpp	/^    AutoReg( ITestInvoker* invoker, SourceLineInfo const& lineInfo, StringRef const& classOrMethod, NameAndTags const& nameAndTags ) noexcept;$/;"	m	struct:Catch::AutoReg
+noexcept	catch.hpp	/^    NameAndTags( StringRef const& name_ = StringRef(), StringRef const& tags_ = StringRef() ) noexcept;$/;"	m	struct:Catch::NameAndTags
+operator +	catch.hpp	/^    T const& operator + ( T const& value, StreamEndStop ) {$/;"	f	namespace:Catch
+ostream	catch.hpp	/^    auto operator << ( std::ostream& os, StringRef const& sr ) -> std::ostream&;$/;"	m	class:Catch::std
+other	catch.hpp	/^        SourceLineInfo( SourceLineInfo const& other )            = default;$/;"	m	struct:Catch::SourceLineInfo
+performOptionalSelector	catch.hpp	/^inline id performOptionalSelector( id obj, SEL sel ) {$/;"	f
+print_1_vector	leetcode.h	/^void print_1_vector(vector<T>& a) {$/;"	f
+print_2_vector	leetcode.h	/^void print_2_vector(vector<vector<T>>& a) {$/;"	f
+rangeToString	catch.hpp	/^        std::string rangeToString(InputIterator first, InputIterator last) {$/;"	f	namespace:Catch::Detail
+rawMemoryToString	catch.hpp	/^        std::string rawMemoryToString( const T& object ) {$/;"	f	namespace:Catch::Detail
+resultDisposition	catch.hpp	/^        ResultDisposition::Flags resultDisposition;$/;"	m	struct:Catch::AssertionInfo
+rewrap	catch.hpp	/^    struct rewrap<Container, List<Elems...>, Elements...> {$/;"	s	namespace:Catch
+rewrap	catch.hpp	/^struct rewrap<Container, List<elems...>> {$/;"	s	namespace:Catch
+right	leetcode.h	/^  Node* right;$/;"	m	class:Node
+right	leetcode.h	/^  TreeNode* right;$/;"	m	struct:TreeNode
+s_empty	catch.hpp	/^        static constexpr char const* const s_empty = "";$/;"	m	class:Catch::StringRef
+split	leetcode.h	/^vector<string> split(const string& s, char delim) {$/;"	f
+split	leetcode.h	/^void split(const string& s, char delim, Out result) {$/;"	f
+string	catch.hpp	/^        auto str() const -> std::string;$/;"	m	class:Catch::ReusableStringStream::std
+string	catch.hpp	/^    auto operator + ( StringRef const& lhs, StringRef const& rhs ) -> std::string;$/;"	m	class:Catch::std
+string	catch.hpp	/^    auto operator + ( StringRef const& lhs, char const* rhs ) -> std::string;$/;"	m	class:Catch::std
+string	catch.hpp	/^    auto operator + ( char const* lhs, StringRef const& rhs ) -> std::string;$/;"	m	class:Catch::std
+string	catch.hpp	/^    auto operator += ( std::string& lhs, StringRef const& sr ) -> std::string&;$/;"	m	class:Catch::std
+stringify	catch.hpp	/^        inline std::string stringify( NSString* nsstring ) {$/;"	f	namespace:Catch::Detail
+stringify	catch.hpp	/^        std::string stringify(const T& e) {$/;"	f	namespace:Catch::Detail
+tags	catch.hpp	/^    StringRef tags;$/;"	m	struct:Catch::NameAndTags
+val	leetcode.h	/^  int val;$/;"	m	class:Node
+val	leetcode.h	/^  int val;$/;"	m	struct:ListNode
+val	leetcode.h	/^  int val;$/;"	m	struct:TreeNode
+value	catch.hpp	/^            static const bool value = decltype(test<std::ostream, const T&>(0))::value;$/;"	m	class:Catch::Detail::IsStreamInsertable
+with_types	catch.hpp	/^    struct with_types {$/;"	s	struct:Catch::combine
+writeToStream	catch.hpp	/^        void writeToStream( std::ostream &os ) const {$/;"	f	struct:Catch::Parser
