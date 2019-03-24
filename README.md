@@ -24,11 +24,12 @@
 
 - 如果你用`IDE`，点`run`吧。
 - 如果你用`Linux`，那就先编译`tests-main.cpp`，命令是：`g++ tests-main.cpp -c`。然后每次运行：`g++ tests-main.o lc.cpp -o lc`。
-- 如果你和我一样懒，我写了`makefile`，`make`一下吧。第一遍会比较慢，之后会快很多。比较恶心的是，你要这么执行`./build/linux/x86_64/release/lc`。
+- 如果你和我一样懒，我写了`makefile`，`make`一下吧。第一遍会比较慢，之后会快很多。比较恶心的是，你要这么执行`./build/linux/x86_64/release/lc`。具体实现参见`xmake`
+- `cmake`用户直接`cmake .`保证了跨平台运行。
 
 ## 可能遇到的问题
 
 1. 报错了，检查一下用的是不是`C++11`。
-2. 提示找不到`<bits/std++.h>`？有的编译器不支持，你可以[下载](https://gist.github.com/eduarc/6022859/raw/3f81acf4e2288d9dea02bd8a7c7a2908bbaeebbe/stdc++.h)一个放在文件夹里。把`#include <bits/stdc++.h>`换成`#include "stdc++.h"`。
+2. 提示找不到`<bits/std++.h>`。有的编译器不支持，你可以[下载](https://gist.github.com/eduarc/6022859/raw/3f81acf4e2288d9dea02bd8a7c7a2908bbaeebbe/stdc++.h)一个放在文件夹里。把`#include <bits/stdc++.h>`换成`#include "stdc++.h"`。
 3. 其他稀奇古怪的问题，开`issue`吧。
 
