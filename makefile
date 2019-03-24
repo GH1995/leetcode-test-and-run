@@ -37,7 +37,4 @@ build/.objs/lc/linux/x86_64/release/src/tests-main.cpp.o: src/tests-main.cpp
 clean:  clean_lc
 
 clean_lc: 
-	@rm -f build/linux/x86_64/release/lc
-	@rm -f build/.objs/lc/linux/x86_64/release/src/lc.cpp.o
-	@rm -f build/.objs/lc/linux/x86_64/release/src/tests-main.cpp.o
 
