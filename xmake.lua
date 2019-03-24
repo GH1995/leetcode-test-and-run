@@ -1,18 +1,19 @@
 -- add rules: debug/release
 add_rules("mode.debug", "mode.release")
-
 -- define target
 target("lc")
 
     -- set kind
     set_kind("binary")
-    -- set_optimize("fastest")
 
     -- add files
-    add_files("src/tests-main.cpp")
-    add_headerfiles("src/catch.hpp")
-    add_headerfiles("src/leetcode.h")
-    add_files("src/lc.cpp")
+    add_files("tests-main.cpp")
+    add_headerfiles("catch.hpp")
+    add_headerfiles("leetcode.h")
+    add_files("lc.cpp")
+
+    add_cxxflags("-g -Wall")
+    set_languages("cxx11")
     
 
 
